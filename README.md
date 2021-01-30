@@ -25,6 +25,7 @@
 3. npm install;
 4. npm start;
 
+```
 ### `Display To-Do Application`
 * ![ss main](https://user-images.githubusercontent.com/51501974/106347092-5a339300-62ee-11eb-97e8-9d073992c75c.PNG)
 * ![ss update](https://user-images.githubusercontent.com/51501974/106347094-5b64c000-62ee-11eb-8400-45c3749164f3.PNG)
