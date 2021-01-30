@@ -1,0 +1,14 @@
+.card1{
+    
+    max-width: 800px;
+    margin: 50px auto;
+    /* margin: auto; */
+}
+
+@media( min-width: 768px) {
+    .card1{
+        display: flex;
+        justify-content: space-between;
+
+    }
+}
