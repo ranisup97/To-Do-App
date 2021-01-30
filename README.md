@@ -12,8 +12,6 @@
 * Update
 * Delete
 
-In the project directory, you can run:
-
 ### `Prerequisites`
 
 - Before you begin, ensure you have met the following requirements:
