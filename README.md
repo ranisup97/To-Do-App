@@ -3,7 +3,7 @@
 		To-Do Application
 	</a>
 </h1>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center"> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). </h4>
 
 ### `Features Available`
 
