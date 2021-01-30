@@ -3,20 +3,29 @@
 		To-Do Application
 	</a>
 </h1>
-<h4 align="center">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Features Available`
+
+* Create
+* Read
+* Update
+* Delete
 
 In the project directory, you can run:
 
-### `npm start`
+### `Prerequisites`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Before you begin, ensure you have met the following requirements:
+  - NPM as package manager
+  - reactjs
+  
+### `How To Install` 
+```bash
+1. git clone https://github.com/ranisup97/To-Do-App.git
+2. cd folder To-Do-App;
+3. npm install;
+4. npm start;
 
 ### `Display To-Do Application`
 * ![ss main](https://user-images.githubusercontent.com/51501974/106346885-d927cc00-62ec-11eb-9daa-faef5db4f8ff.PNG)
