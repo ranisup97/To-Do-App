@@ -26,5 +26,6 @@
 4. npm start;
 
 ### `Display To-Do Application`
-* ![ss main](https://user-images.githubusercontent.com/51501974/106346885-d927cc00-62ec-11eb-9daa-faef5db4f8ff.PNG)
-* ![ss update](https://user-images.githubusercontent.com/51501974/106346886-daf18f80-62ec-11eb-9e77-d9c06c059def.PNG)
+* ![ss main](https://user-images.githubusercontent.com/51501974/106347092-5a339300-62ee-11eb-97e8-9d073992c75c.PNG)
+* ![ss update](https://user-images.githubusercontent.com/51501974/106347094-5b64c000-62ee-11eb-8400-45c3749164f3.PNG)
+
